@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">주소 찾기</string>
+
+    <string name="google_ads_app_id" translatable="false">ca-app-pub-5598928822468239~1108001029</string>
+    <string name="google_ads_bottom_banner_id" translatable="false">ca-app-pub-5598928822468239/1226107442</string>
+    <string name="google_ads_interstitial_id" translatable="false">ca-app-pub-5598928822468239/5165352450</string>
+    <string name="google_ads_native_id" translatable="false">ca-app-pub-5598928822468239/8189302744</string>
+
+    <string name="google_ads_bottom_banner_test_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="google_ads_interstitial_test_id" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="google_ads_native_test_id" translatable="false">ca-app-pub-3940256099942544/2247696110</string>
+</resources>
